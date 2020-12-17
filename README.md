@@ -21,20 +21,20 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 # My projects
 
 ## Torrent_Manager_CLI (Python, Requests, Tabulate)
+
 Stream Movies, Download torrents from command line
----
 [Check it out here](https://github.com/jairajsahgal/torrent-manager-CLI)
 ![Working of program](https://raw.githubusercontent.com/jairajsahgal/torrent-manager-CLI/master/torrent-manager-2020-12-15-18260.gif)
 
 ## File Uploader (Python, Requests, Tkinter)
+
 Upload file and get links from command line
----
 [Check it out here](https://github.com/jairajsahgal/file_uploader)
 <img src="https://raw.githubusercontent.com/jairajsahgal/file_uploader/main/simplescreenrecorder-2020-12-12_21.59.29.gif" width="800"/>
 
 ## Download Folder Cleaner (Python, Shutil, OS, subprocess)
+
 Clean your download folder in a instant!
----
 [Find out more here](https://github.com/jairajsahgal/Download_Folder_Cleaner)
 ![Working of program](https://raw.githubusercontent.com/jairajsahgal/Download_Folder_Cleaner/main/1607437502053.gif)
 
@@ -46,7 +46,6 @@ Clean your download folder in a instant!
 ## Image to ASCII converter (Python, Pillow, Tkinter)
 
 Convert your images to ASCII characters
----
 [Check it out here](https://github.com/jairajsahgal/image_to_ascii)
 
 ![Output](https://raw.githubusercontent.com/jairajsahgal/image_to_ascii/master/image_to_ascii-2020-12-18_01.42.15.gif)
