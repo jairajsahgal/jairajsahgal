@@ -35,4 +35,16 @@ Clean your download folder in a instant!
 [Find out more here](https://github.com/jairajsahgal/Download_Folder_Cleaner)
 ![Working of program](https://raw.githubusercontent.com/jairajsahgal/Download_Folder_Cleaner/main/1607437502053.gif)
 
+## Covid-19 Increase in Cases as per country Bar Chart Race
+
+[Find out more](https://colab.research.google.com/drive/1FqYjbikjhYJCgKPMjbeiA7WpS1IYuVGb?usp=sharing)
+![Output](https://raw.githubusercontent.com/jairajsahgal/covid_bar_chart_race/master/covid-19-december_0vVlXF64_2Uju.gif)
+
+## Image to ASCII converter
+
+Convert your images to ASCII characters
+[Check it out here](https://github.com/jairajsahgal/image_to_ascii)
+![Output](https://raw.githubusercontent.com/jairajsahgal/image_to_ascii/master/image_to_ascii-2020-12-18_01.42.15.gif)
+
+## 
 <!-- More to be added -->
