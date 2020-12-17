@@ -24,7 +24,7 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 Stream Movies, Download torrents from command line
 
 [Check it out here](https://github.com/jairajsahgal/torrent-manager-CLI)
-[Working of program](https://raw.githubusercontent.com/jairajsahgal/torrent-manager-CLI/master/torrent-manager-2020-12-15-18260.gif)
+![Working of program](https://raw.githubusercontent.com/jairajsahgal/torrent-manager-CLI/master/torrent-manager-2020-12-15-18260.gif)
 
 ## File Uploader (Python, Requests, Requests)
 Upload file and get links from command line
