@@ -16,13 +16,19 @@ Here are some ideas to get you started:
 -->
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a Computer Science Graduate from University of Petroleum and Energy Studies, Dehradun, India. I have hands on experience in Algo Trading, Blockchain, Data Analysis, Data Science, and Automation.
+I'm a Computer Science Graduate from University of Petroleum and Energy Studies, Dehradun, India. I have hands on experience in Algo Trading, Blockchain, Data Analysis, Data Science, and Automation in Python. I like to make things easy for myself and sometimes, people.
 
 # My projects
 
+## Torrent Manager Web App (Python, PyWebIO)
+Stream Movies, Download torrents from your browser.
+[Check it our here](https://github.com/jairajsahgal/Torrent_Download_Web_App)
+![Working of program](https://raw.githubusercontent.com/jairajsahgal/Torrent_Download_Web_App/main/GUI_Torrent_Manager.gif)
+
+
 ## Torrent_Manager_CLI (Python, Requests, Tabulate)
 
-Stream Movies, Download torrents from command line
+Stream Movies, Download torrents from command line.
 [Check it out here](https://github.com/jairajsahgal/torrent-manager-CLI)
 ![Working of program](https://raw.githubusercontent.com/jairajsahgal/torrent-manager-CLI/master/torrent-manager-2020-12-15-18260.gif)
 
