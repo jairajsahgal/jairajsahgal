@@ -21,7 +21,7 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 # My projects
 
 ## Background Hider Opencv (Python, OpenCV, Mediapipe)
-Hide your background using this simple script
+Hide your background using custom images or blur (if no image found)
 [Check it out here](https://github.com/jairajsahgal/Background_hider_opencv)
 ![Working of program](https://raw.githubusercontent.com/jairajsahgal/Background_hider_opencv/main/outputfile.gif)
 
