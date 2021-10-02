@@ -20,6 +20,12 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 
 # My projects
 
+## Background Hider Opencv (Python, OpenCV, Mediapipe)
+Hide your background using this simple script
+[Check it out here](https://github.com/jairajsahgal/Background_hider_opencv)
+![Working of program](https://raw.githubusercontent.com/jairajsahgal/Background_hider_opencv/main/outputfile.gif)
+
+
 ## Torrent Manager Web App (Python, PyWebIO)
 Stream Movies, Download torrents from your browser.
 [Check it our here](https://github.com/jairajsahgal/Torrent_Download_Web_App)
