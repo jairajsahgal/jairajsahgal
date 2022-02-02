@@ -20,6 +20,11 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 
 # My projects
 
+## Samsung Potrait Camera
+Adjust your blur in the background (opencv, cvzone, mediapipe)
+[Check it out here](https://github.com/jairajsahgal/Samsung_Camera_Blur)
+![Working of program](https://github.com/jairajsahgal/Samsung_Camera_Blur/blob/master/2022-02-02%2013-11-11.gif?raw=true)
+
 ## Background Hider Opencv (Python, OpenCV, Mediapipe)
 Hide your background using custom images or blur (if no image found)
 [Check it out here](https://github.com/jairajsahgal/Background_hider_opencv)
