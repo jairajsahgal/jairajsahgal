@@ -20,6 +20,11 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 
 # My projects
 
+## Fun with Pi and Opencv
+Calculate digits of pi indefinitely and change bg colour with it.
+[Check it out](https://github.com/jairajsahgal/Fun_With_Pi_and_Opencv)
+![Working of program](https://github.com/jairajsahgal/Fun_With_Pi_and_Opencv/blob/master/2022-02-02%2013-38-32.gif?raw=true)
+
 ## Samsung Potrait Camera
 Adjust your blur in the background (opencv, cvzone, mediapipe)
 [Check it out here](https://github.com/jairajsahgal/Samsung_Camera_Blur)
