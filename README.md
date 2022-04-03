@@ -20,6 +20,11 @@ I'm a Computer Science Graduate from University of Petroleum and Energy Studies,
 
 # My projects
 
+## Account Setup and Information
+CRUD REST API and CRUD forms demo in django and djangorestframework
+[Check it out](https://github.com/jairajsahgal/Accounts_CRUD_Django)
+![Working of program](https://github.com/jairajsahgal/Accounts_CRUD_Django/blob/master/2022-04-04%2003-23-07.gif?raw=true)
+
 ## Fun with Pi and Opencv
 Calculate digits of pi indefinitely and change bg colour with it.
 [Check it out](https://github.com/jairajsahgal/Fun_With_Pi_and_Opencv)
