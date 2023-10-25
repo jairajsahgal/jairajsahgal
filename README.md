@@ -9,10 +9,10 @@ Full Stack Developer
 I've been actively been programming in the industry for 4 years. I started with blockchain and is currently working with React and Django + Brownie
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [jairajdatascientist@gmail.com](mailto:jairajdatascientist@gmail.com)
+* ✉️  You can contact me at [jairajremote@gmail.com](mailto:jairajremote@gmail.com)
 * 🚀  I'm currently working on [AvatarLife](http://www.avatarlife.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Data Analysis, Web Scraping, OpenCV
+* 🤝  I'm open to collaborating on Backend Development, Web Scraping, OpenCV
 
 ### Skills
 
