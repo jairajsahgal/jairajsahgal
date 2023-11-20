@@ -10,7 +10,7 @@ I've been actively been programming in the industry for 4 years. I started with 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jairajremote@gmail.com](mailto:jairajremote@gmail.com)
-* 🚀  I'm currently working on [AvatarLife](http://www.avatarlife.com) and [FinVedas(https://finvedas.com)]
+* 🚀  I'm currently working on [AvatarLife](http://www.avatarlife.com) and [FinVedas](https://finvedas.com)
 * 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Backend Development, Web Scraping, OpenCV
 
