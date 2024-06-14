@@ -6,13 +6,13 @@ Hi 👋 My name is Jairaj Sahgal
 Full Stack Developer
 --------------------
 
-I've been actively been programming in the industry for 4 years. I started with blockchain and is currently working with React and Django + Brownie
+I've been actively been programming in the industry for 4 years. I started with blockchain and is currently working with NextJS and Django + Kafka
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jairajremote@gmail.com](mailto:jairajremote@gmail.com)
-* 🚀  I'm currently working at [AvatarLife](http://www.avatarlife.com) and [FinVedas](https://finvedas.com)
-* 🧠  I'm learning Go
-* 🤝  I'm open to collaborating on Backend Development, and Software Development
+* 🚀  I'm currently working at [Sustainext](https://sustainext.ai/).
+* 🧠  I'm learning about Database in Depth.
+* 🤝  I'm open to collaborating on Backend Development, and Qt Development.
 
 ### Skills
 
